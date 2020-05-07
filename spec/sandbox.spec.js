@@ -1,4 +1,4 @@
-const { Selector } = require("testcafe");
+import { Selector } from "testcafe";
 
 fixture`Sandbox`.page`https://e2e-boilerplate.github.io/sandbox/`;
 

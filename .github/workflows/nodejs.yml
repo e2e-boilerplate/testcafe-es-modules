@@ -1,4 +1,4 @@
-name: testcafe-commonjs
+name: testcafe-es-modules
 'on':
   push: null
   schedule:
